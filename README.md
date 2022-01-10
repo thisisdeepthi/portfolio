@@ -1,3 +1,3 @@
 # Official portfolio site of Deepthishree
 
-Link - https://github.com/thisisdeepthi/portfolio.git
+Link - https://thisisdeepthi.github.io/portfolio/
