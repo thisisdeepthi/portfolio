@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;1,700&display=swap');
+
+.about{
+    background: #151618;
+    /* background: #1a1a1c; */
+}
+img.about__img{
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    width: 600px;
+    background-color: rgb(38, 38, 38);
+    margin-left: -90px;
+}
+
+h1.about_heading{
+    margin-bottom: 10px;
+    text-align: end;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.about_content{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    right: 80px;
+    top: 950px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-shadow: 2px 2px 2px 2px rgb(183 175 175 / 25%);
+}
+
+.about_content p{
+    color: white;
+    text-align: justify;
+    margin: 20px;
+    line-height: 2.5rem;
+}
+.resume{
+    margin-top: 10px;
+    margin-left: 190px;
+    background-color: #c066cc;
+    border-radius: 20px;
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px;
+}

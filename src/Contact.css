@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;1,700&display=swap');
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    display: inline-block;
+}
+
+.sociallogo{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.footer-down{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}

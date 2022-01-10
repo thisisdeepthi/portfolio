@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;1,700&display=swap');
+
+.projects{
+    background: #151618;
+}
+
+h1.heading{
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.proj_box{
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 90%;
+    background-color: rgb(139, 115, 115);
+    padding: 35px;
+    transition: .4s ease;
+    box-shadow: 2px 2px 2px 2px rgb(183 175 175 / 25%);
+}
+
+.icon .logo{
+    margin-left: 95px;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: -300px;
+}
+
+/* h1,h2{
+    text-align: center;
+} */
+
+.proj_content h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    /* margin-left: 75px; */
+}
+
+.proj_content h2{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: -5px;
+    padding-top: 10px;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: justify;
+}
+
+.sourcecode{
+    margin-top: 10px;
+    margin-left: 70px;
+    background-color: white;
+    border-radius: 20px;
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px;
+}

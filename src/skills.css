@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Rajdhani:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;1,700&display=swap');
+
+
+h1.heading{
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+/* .skill{
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    left: 380px;
+    top: 1800px;
+    background-color: #fdd7ed;
+    box-shadow: 2px 2px 12px 2px rgb(183 175 175 / 25%);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    /* background-color: rgb(38, 38, 38); 
+} */
+
+.padding_skills{
+    /* margin: 30px; */
+    width: 700px;
+    height: 700px;
+    margin-left: 380px;
+    background-color: #fdd7ed;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+h4{
+    color: black;
+    font-size: 25px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
